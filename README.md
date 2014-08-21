@@ -15,5 +15,3 @@ Assignment 4: Cachelab;
 Assignment 5: Shelllab;
 Assignment 6: Malloclab;
 Assignment 7: Proxylab;
-
-
